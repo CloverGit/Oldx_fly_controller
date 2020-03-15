@@ -13,9 +13,6 @@
 *.dylib
 *.dll
 
-# Fortran module files
-*.mod
-
 # Compiled Static libraries
 *.lai
 *.la
@@ -77,3 +74,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# KiCAD cache files
+fp-info-cache
+*.kicad_pcb-bak
+*.sch-bak
+*_cache.lib
