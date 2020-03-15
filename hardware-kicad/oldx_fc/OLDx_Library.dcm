@@ -1,0 +1,55 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 24C32
+D EEPROM
+$ENDCMP
+#
+$CMP 3.3VG
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP 5050RGB
+D 5050 RGB LED 6-Pin
+$ENDCMP
+#
+$CMP AS1364-BTDT-33
+D 1A Low Dropout Linear Voltage Regulator
+F https://pdf1.alldatasheet.com/datasheet-pdf/view/559922/AMSCO/AS1364-BTDT-33.html
+$ENDCMP
+#
+$CMP BAT54WS
+F https://html.alldatasheet.com/html-pdf/14654/PANJIT/BAT54WS/181/1/BAT54WS.html
+$ENDCMP
+#
+$CMP Conn_17X03
+K connector
+F  ~
+$ENDCMP
+#
+$CMP GPS_NEO-8
+K ublox GPS GNSS module
+$ENDCMP
+#
+$CMP ICM20602
+F http://www.invensense.com/wp-content/uploads/2016/10/DS-000176-ICM-20602-v1.0.pdf
+$ENDCMP
+#
+$CMP MS5611
+F https://html.alldatasheet.com/html-pdf/880802/TEC/MS5611-01BA03/918/14/MS5611-01BA03.html
+$ENDCMP
+#
+$CMP P_LEG
+D Power flag
+K Power-flag
+$ENDCMP
+#
+$CMP RT9193-33
+F https://html.alldatasheet.com/html-pdf/240022/RICHTEK/RT9193-33GB/298/1/RT9193-33GB.html
+$ENDCMP
+#
+$CMP W25X16
+K flash memory SPI
+$ENDCMP
+#
+#End Doc Library
